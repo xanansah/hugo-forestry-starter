@@ -68,3 +68,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- hugo/content/swdw.md
